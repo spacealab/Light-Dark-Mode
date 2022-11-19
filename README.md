@@ -1,3 +1,3 @@
-# Light-Dark-Mode
+# Light Dark Mode
 Light &amp; Dark Mode
 OK
